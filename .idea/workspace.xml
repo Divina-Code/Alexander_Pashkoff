@@ -32,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="Python.27.12.2020 How old are you (project 2)">
     <configuration name="26.12.2020 Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
