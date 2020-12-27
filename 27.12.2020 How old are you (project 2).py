@@ -1,5 +1,6 @@
 print("Hello user")
 name = input("what is your name?      ")
 print("Hello", name)
-year = int(input("When did you born?"))
+year = int(input("When did you born?   "))
+print(year,"Your age")
 print(2020 - year)
