@@ -1,5 +1,5 @@
 import random
-random_count = random.randrange(100)
+random_count = random.randint(0,100)
 decide = False
 a = 0
 bad = -1
@@ -13,8 +13,8 @@ while decide != True:
         print("It happened before\n")
     elif my_count >= random_count:
         print("Take less\n")
-        bad = int(my_count)
+        bad = my_count
     elif my_count <= random_count:
         print("Take more\n")
-        bad = int(my_count)
+        bad = my_count
 print("You guessed this number,\n You guessed right by", a,"trying")
