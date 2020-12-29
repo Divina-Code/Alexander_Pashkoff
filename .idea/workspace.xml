@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d73b55-8818-425a-9958-d721afe84ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/кфтпу.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Пароль.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/кфтпу.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.кфтпу">
-    <configuration name="ЛИСТ ПОКУПОК" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Пароль">
+    <configuration name="Пароль" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Alexander_Pashkoff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЛИСТ ПОКУПОК.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Пароль.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Пароль" />
         <item itemvalue="Python.кфтпу" />
         <item itemvalue="Python.Palendrom 2,0" />
         <item itemvalue="Python.New pr" />
         <item itemvalue="Python.AZART GAME НЕ РАБОТАЕТ" />
-        <item itemvalue="Python.ЛИСТ ПОКУПОК" />
       </list>
     </recent_temporary>
   </component>
