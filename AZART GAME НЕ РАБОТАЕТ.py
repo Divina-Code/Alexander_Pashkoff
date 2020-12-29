@@ -18,8 +18,8 @@ above1 = False
 above2 = False
 above3 = False
 print("Если хотите взять карту пишите да, если не хотите пишите нет")
-while (deaf1 or above1 or win1 != True) and (deaf2 or above2 or win2 != True) and (deaf3 or above3 or win3 != True):
-    if above1 or deaf1 == False:
+while (deaf1 and above1 and win1 == False) or (deaf2 and above2 and win2 == False) or (deaf3 and above3 and win3 == False):
+    if (above1 or deaf1) == False:
         print("ХОД ", name1)
         want1 = input("Берёте карту? ")
         if want1 == "да":
@@ -35,7 +35,7 @@ while (deaf1 or above1 or win1 != True) and (deaf2 or above2 or win2 != True) an
         else:
             print(name1,"вышел из игры со счётом",player_count_1)
             above1 = True
-    if  above2 or deaf2 == False:
+    if  (above2 or deaf2) == False:
         print("ХОД ", name2)
         want2 = input("Берёте карту? ")
         if want2 == "да":
@@ -51,7 +51,7 @@ while (deaf1 or above1 or win1 != True) and (deaf2 or above2 or win2 != True) an
         else:
             print(name2,"вышел из игры со счётом",player_count_2)
             above2 = True
-    if  above3 or deaf3 == False:
+    if  (above3 or deaf3) == False:
         print("ХОД ", name3)
         want3 = input("Берёте карту? ")
         if want3 == "да":
