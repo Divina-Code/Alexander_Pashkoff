@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d73b55-8818-425a-9958-d721afe84ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/English.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Висельница.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Telega.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/English.py" beforeDir="false" afterPath="$PROJECT_DIR$/English.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.English">
+  <component name="RunManager" selected="Python.Telega">
     <configuration name="Пароль" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Alexander_Pashkoff" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Palendrom 2,0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Telega" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Alexander_Pashkoff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Palendrom 2,0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telega.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Telega" />
         <item itemvalue="Python.English" />
         <item itemvalue="Python.Висельница" />
         <item itemvalue="Python.Пароль" />
         <item itemvalue="Python.кфтпу" />
-        <item itemvalue="Python.Palendrom 2,0" />
       </list>
     </recent_temporary>
   </component>
