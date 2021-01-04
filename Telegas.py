@@ -1,8 +1,9 @@
+from MyTokennumber import TOREN
 import telebot
 import random
 count = random.randint(0, 100)
 a = 0
-bot = telebot.TeleBot('1488309812:AAEQfBGPxx6NkB5cSEud4WpEJz2GyPX7H_4')
+bot = telebot.TeleBot(TOREN)
 @bot.message_handler(content_types = ['text'])
 def otvet_na_text(message):
     global count
