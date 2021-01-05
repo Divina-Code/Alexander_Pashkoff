@@ -21,8 +21,16 @@ while game:
                 acolor = random.randint(0, 255)
                 scolor = random.randint(0, 255)
                 dcolor = random.randint(0, 255)
+                print(acolor,scolor,dcolor)
+    if pygame.key.get_pressed()[pygame.K_SPACE]:
+        acolor = 255
+        scolor = 255
+        dcolor = 255
+        print(acolor,scolor,dcolor)
+
     if pygame.mouse.get_pressed()[0]:
         mousepose = pygame.mouse.get_pos()
         pygame.draw.circle(gamedisplay, (acolor, scolor, dcolor), mousepose, radious)
+
     pygame.display.update()
 pygame.quit()
